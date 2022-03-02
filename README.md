@@ -41,3 +41,11 @@
 
 ## Summary
 Intense bullet-hell rhythm game about fighting constellations in space, where you play as a dying star who avoids obstacles to find a place to live
+
+## Inspiration
+# Caliana
+
+# Chase
+![](images/Chase.PNG)
+# Christian
+![](images/Christian.PNG)
