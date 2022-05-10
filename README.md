@@ -52,10 +52,10 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 
 # Assets
 * Big SnaKe 
-![](images/Big_Snake.PNG)
+![](images/BigSnake.PNG)
 
 * Small Snake
-![](images/small_snake.PNG)
+![](images/smallsnake.PNG)
 
 * Star Model
 ![](images/Star.png)
