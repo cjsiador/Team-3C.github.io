@@ -51,27 +51,26 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 ![](images/Christian.PNG)
 
 # Assets
-* Big SnaKe 
+## Big SnaKe 
 ![](images/BigSnake.PNG)
 
-* Small Snake
+## Small Snake
 ![](images/smallsnake.PNG)
 
-* Star Model
+## Star Model
 ![](images/Star.png)
 
-* Rocks
+## Rocks
 ![](images/Rocks.PNG)
 
-* Jellyfish
+## Jellyfish
 ![](images/Jellyfish)
-
-* Planets
+## Planets
 ![](images/Planets.PNG)
 
-* Ursa Major Model
+## Ursa Major Model
 ![](images/UrsaMajor_2.png)
 
-* Proto Ursa Major
+## Proto Ursa Major
 ![](images/ProtoBear.PNG)
 
