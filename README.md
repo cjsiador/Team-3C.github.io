@@ -64,7 +64,7 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 ![](images/Rocks.PNG)
 
 ## Jellyfish
-![](images/Jellyfish)
+![](images/Jellyfish.PNG)
 ## Planets
 ![](images/Planets.PNG)
 
